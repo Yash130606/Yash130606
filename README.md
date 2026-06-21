@@ -1,4 +1,4 @@
-# Hi there, I'm Yashu 👋
+# Hi there, I'm Yash 👋
 
 🚀 AI/GenAI Enthusiast | Electronics & Telecommunication Engineer
 🎓 B.Tech ENTC Student | Hackathon Builder | Future AI + Embedded Engineer
